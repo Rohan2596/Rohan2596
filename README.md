@@ -1,8 +1,13 @@
-# Rohan Kadam
-## Full-stack Developer and Android Developer
+# Rohan Ravindra Kadam
+## Full-stack Developer
 
-I'm Rohan Kadam from Mumbai, India. I'm a Full-stack developer and Android Developer. I love learning new languages and frameworks using them to build, new applications for web , mobile or just APIs for an application.
-Checkout Medium Article at (https://rohankadam965.medium.com/)
+I'm Rohan Ravindra Kadam from Mumbai, India. I'm a Full-stack developer. 
+I love learning new languages and frameworks using them to build, new applications for web , mobile or just APIs for an application.
+
+- Website  :- (https://kadamrohan.com/)
+- Medium   :- (https://rohankadam965.medium.com/)
+- Dev.to   :- (https://dev.to/rohan2596)
+- LinkedIn :- (https://www.linkedin.com/in/rohankadam2596/)
 
 ![Profile views](https://gpvc.arturio.dev/Rohan2596) 
 
